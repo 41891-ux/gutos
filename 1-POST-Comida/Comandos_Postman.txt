@@ -1,0 +1,14 @@
+------------POST-----------
+http://127.0.0.1:5000/Filme
+---------------------------
+
+Body - raw - JSON
+
+{
+  "titulo": "o poderoso chefao",
+  "genero": "drama",
+  "diretor": "francis ford coppola"
+  "ano de lancamento": 1972
+  "duraçao": 175 minutos
+}
+
